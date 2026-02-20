@@ -1,4 +1,4 @@
-# Data & Information Quality Project: \Commercial Businesses in Milan
+# Data & Information Quality Project: Commercial Businesses in Milan
 
 **Course:** Data and Information Quality – Politecnico di Milano (A.Y. 2025/2026)
 
